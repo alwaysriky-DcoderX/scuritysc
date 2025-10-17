@@ -1,9 +1,4 @@
-{
-  "passwords": ["111", "12345", "alwaysriky"],
-  "whitelist": [
-    "6283179517578",
-    "6288211740019",
-    "6281234567890",
-    "6285719075743"
-  ]
-}
+[
+  { "username": "admin", "password": "12345" },
+  { "username": "user1", "password": "abcde" }
+]
