@@ -1,8 +1,6 @@
 {
-  "passwords": ["111", "12345", "riky"],
-  "whitelist": [
-    "6282311784767",
-    "6288211740019",
-    "6281234567890"
-  ]
+  "allowedKeys": ["RIKY-KEY-001"],
+  "allowedOwners": ["6288211740019"],
+  "expired": "2030-12-31T23:59:59Z",
+  "requiredVersion": "1.0.0"
 }
